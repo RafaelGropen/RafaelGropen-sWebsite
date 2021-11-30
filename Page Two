@@ -1,6 +1,9 @@
-<link rel="stylesheet" type="text/css" href="Styles.css">
+
+    <link rel="stylesheet" type="text/css" href="Styles.css">
 </head>
 <body>
     <!DOCTYPE html>
     <html lang="en">
-        
+    <head>
+    <title>Rafael Gropen's Website</title>
+    <meta charset="UTF-8">
